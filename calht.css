@@ -1,0 +1,15 @@
+body{
+    
+    background-color: rgb(18, 193, 246);
+}
+input{
+    background-color: rgb(216, 246, 17);
+    line-height: 50%;
+    
+}
+
+button{
+    height: 60px;
+    width: 60px;
+    background: rgba(255, 217, 0, 0.618);
+}
